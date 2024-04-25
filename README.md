@@ -9,7 +9,7 @@ Environment: Google Colab
 # Setting and run code
 + Step 1: Download folder model in github.
 + Step 2: Push folder CNN_model in Google Colab.
-+ Step 3: Run cod in file KNN_Model_code.ipynb.
++ Step 3: Run code in file KNN_Model_code.ipynb.
 
 ### Result:
 
