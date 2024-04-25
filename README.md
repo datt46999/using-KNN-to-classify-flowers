@@ -4,7 +4,7 @@ Language python.
 Library: numpy, pandas, matplotlib, sklearn, cv2, glod, os, imutils.
 Environment: Google Colab
 
-## In model, we will use KNN model to classify 5 types of flowers: daisy, dandelion, rose, sunflower, tulip.
+In model, we will use KNN model to classify 5 types of flowers: daisy, dandelion, rose, sunflower, tulip.
 # Node 
 
 You should setting the path correct before running the code.
