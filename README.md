@@ -1,5 +1,9 @@
 # AI Project
-
+# Description
+Model building in Google Colab , using KNN model to classification
+ 5 flowers. Training data is taken in the Kaggle with more 4000 images and
+ testing data our take in the website. Then Using OpenCv to read and process.
+ Position: Research, build and adjust the quantity of the model.
 # Using KNN to classify flowers
 ## About this model
 Language python.
